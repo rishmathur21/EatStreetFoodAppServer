@@ -1,4 +1,4 @@
-# EatStreetFoodApp Java Server
+# Eat Street Food App Java Server
 
 This Food Application was developed as a final project for CS 4550 Web Development in Spring 2020. I built this in collaboration with Jon Volfson and Ateev Nahar.
 
